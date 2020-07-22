@@ -1,0 +1,17 @@
+[
+    {
+        "#id": "1",
+        "gsequence": "gACAGGGTTA",
+        "gspecies": "gInfluenza"
+    },
+    {
+        "#id": "2",
+        "gsequence": "gTTAACCAAG",
+        "gspecies": "gHerpes"
+    },
+    {
+        "#id": "3",
+        "gsequence": "gGCGAATGAC",
+        "gspecies": "gEpstein-barr"
+    }
+]
